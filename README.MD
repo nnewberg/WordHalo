@@ -15,7 +15,11 @@ If so, we shouldn’t be beholden to classic static ways of displaying. My thoug
 - In its current iteration, Word Halo allows users to input text and display it as an animated halo around their head
 - Users can use their eyebrows to change the text color and press a button to explode the text from their head onto the screen
 - They may use it to describe what they’re thinking or feeling. Maybe what song they’re listening to or a question prompted at a friend they’re making the video for. Whatever it may be, it offers a fun and perhaps more expressive way to communicate over 2D text
-- 
+
+## Future Additions
+- Currently, I’m only using the eyebrows as an input parameter to this effect but I’d like to try many more. Maybe your mouth could control the size and boldness of characters, or your hand gestures could move letters across your body. A gesture might trigger the animations
+- I  would also experiment with different typefaces, materials and shaders
+- I’d like to add the capability for multi-line text, better kerning and new animations
 
 ## How To Build
 This project was built using Unity 2020.2.1 and XCode 12.2. Using different versions may cause issues. The main scene is The WordHaloMain scene located in Assets/Scenes. 

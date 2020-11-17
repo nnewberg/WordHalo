@@ -1,5 +1,5 @@
 ﻿<Properties StartupConfiguration="{41FE086B-575B-F355-BE0C-CFDAD4D7A42D}|">
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/WordHaloCharacter.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/WordHaloController.cs">
     <Files>
       <File FileName="Assets/Scripts/WordHaloController.cs" Line="343" Column="9" />
       <File FileName="Assets/Scripts/InputController.cs" Line="33" Column="6" />
